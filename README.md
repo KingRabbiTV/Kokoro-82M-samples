@@ -33,6 +33,15 @@ Or you can listen to sample voices below:
   <source src="./samples/af_alloy.mp3" type="audio/wav">
   Your browser does not support the audio element.
 </audio>
+<audio controls preload="auto">
+    <source src="./samples/af_alloy.mp3" type="audio/mpeg">
+</audio>
+<audio controls preload="auto">
+    <source src="./samples/af_alloy.mp3" type="audio/mp3">
+</audio>
+<audio controls preload="auto">
+    <source src="./samples/af_alloy.mp3" type="audio/mpeg">
+</audio>
 
 #### af_aoede
 <audio controls>

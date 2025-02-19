@@ -30,7 +30,7 @@ Or you can listen to sample voices below:
 ## American English
 #### af_alloy
 <audio controls>
-  <source src="samples/af_alloy.mp3" type="audio/mpeg">
+  <source src="samples/af_alloy.mp3" type="audio/wav">
   Your browser does not support the audio element.
 </audio>
 

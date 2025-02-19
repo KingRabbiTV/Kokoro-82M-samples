@@ -1,0 +1,15 @@
+[project]
+name = "Kokoro-82M-samples"
+version = "0.1.0"
+description = "This repository is dedicated to storing and sharing high-quality voice samples for use with the Kokoro-82M repo https://huggingface.co/hexgrad/Kokoro-82M"
+authors = [{ name = "Your Name", email = "your.email@example.com" }]
+readme = "README.md"
+requires-python = ">=3.9"
+dependencies = ["requests>=2.25.1,<3.0.0"]
+
+[build-system]
+requires = ["setuptools>=61.0", "wheel"]
+build-backend = "setuptools.build_meta"
+
+[tool.setuptools]
+py-modules = ["main"]
